@@ -1,0 +1,24 @@
+{
+  "name": "mongo-social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^7.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hteasdell44/mongo-social-network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hteasdell44/mongo-social-network/issues"
+  },
+  "homepage": "https://github.com/Hteasdell44/mongo-social-network#readme"
+}
