@@ -21,7 +21,7 @@ The source code for this project can be found [here](https://github.com/Hteasdel
 
 ## Usage
 
-This application is not deployed live online.
+This application is not deployed live online. See a video walkthrough of the functionality [here](https://drive.google.com/file/d/1ypt6FnAi_IGna1woq3Gvk3XczvZdvSu_/view).
 
 ## License
 
