@@ -14,7 +14,7 @@ const userSchema = new Schema(
       unique: true,
 
     },
-    thoughts: {
+    thoughts: { 
       type: Array,
     },
     friends: {
@@ -23,6 +23,7 @@ const userSchema = new Schema(
   },
   {
     toJSON: {
+      getters: true,
       virtuals: true,
     },
     id: false,
